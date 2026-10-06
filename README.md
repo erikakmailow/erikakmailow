@@ -1,16 +1,34 @@
-## Hi there 👋
+# ERIKA KRAMER
 
-<!--
-**erikakmailow/erikakmailow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Security Engineering • IT Infrastructure • AI/LLM
 
-Here are some ideas to get you started:
+I build practical security tooling, investigate complex technical problems, and work at the intersection of **cybersecurity, automation, and artificial intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛡️ BLACKBOX
+
+**My current security engineering project**
+
+BLACKBOX is a modular Windows security engineering toolkit focused on endpoint visibility, behavioral detection, security correlation, and investigation support.
+
+### 👻 GhostHunt
+
+My first BLACKBOX component.
+
+A read-only Windows endpoint anomaly hunter that correlates:
+
+```text
+Process
+   │
+   ├── Execution Path
+   ├── Parent / Child Relationships
+   ├── Digital Signature
+   ├── Network Activity
+   └── Behavioral Signals
+              │
+              ▼
+       Correlation Engine
+              │
+              ▼
+          Risk Engine
