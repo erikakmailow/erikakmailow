@@ -33,7 +33,7 @@ automation, systems administration, and building things that actually work.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erikakmailow&show_icons=true&theme=dark)
 
 ---
 
