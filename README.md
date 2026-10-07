@@ -1,34 +1,46 @@
-# ERIKA MAILOW
+# 👋 Hey, I'm Erika
 
-### Security Engineering • IT Infrastructure • AI/LLM
+### IT • Cybersecurity • AI • LLM Engineering
 
-I build practical security tooling, investigate complex technical problems, and work at the intersection of **cybersecurity, automation, and artificial intelligence**.
+I'm an IT professional and AI/LLM engineer interested in cybersecurity,
+automation, systems administration, and building things that actually work.
 
 ---
 
-## 🛡️ BLACKBOX
+## 🧠 What I Do
 
-**My current security engineering project**
+- 🔐 Cybersecurity & Red Teaming
+- 🤖 AI / LLM Evaluation
+- 🐍 Python
+- 💻 Linux / Windows
+- 🌐 Networking
+- ⚙️ Automation & PowerShell
+- 🖥️ Systems Administration
+- 🧪 Security Research
 
-BLACKBOX is a modular Windows security engineering toolkit focused on endpoint visibility, behavioral detection, security correlation, and investigation support.
+---
 
-### 👻 GhostHunt
+## 🛠️ Technologies
 
-My first BLACKBOX component.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-A read-only Windows endpoint anomaly hunter that correlates:
+---
 
-```text
-Process
-   │
-   ├── Execution Path
-   ├── Parent / Child Relationships
-   ├── Digital Signature
-   ├── Network Activity
-   └── Behavioral Signals
-              │
-              ▼
-       Correlation Engine
-              │
-              ▼
-          Risk Engine
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikakmailow)
+
+---
+
+> "Build it. Break it. Understand it. Fix it."
