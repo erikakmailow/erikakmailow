@@ -22,17 +22,16 @@
 
 Cybersecurity • AI/LLM Engineering • IT
 
-I work across cybersecurity, artificial intelligence, systems administration, automation, and security research.
+I work in Information Technology. I dabble in artificial intelligence, automation, and security research.
 
 My interests sit at the intersection of:
 
-**CYBERSECURITY × AI × AUTOMATION × SYSTEMS**
-
+**Cybersecurity * Digital Forensics * Conspiracy-Level Pattern Recognition * 
 ---
 
 # `> ABOUT ME`
 
-I'm an IT professional and AI/LLM engineer with a strong interest in cybersecurity, automation, security research, and systems engineering.
+I'm an IT professional with a strong interest in cybersecurity, automation, security research, and systems engineering.
 
 I like understanding systems from the inside out — finding weaknesses, automating repetitive work, testing assumptions, and building tools that solve real problems.
 
