@@ -26,7 +26,7 @@ I work in Information Technology. I dabble in artificial intelligence, automatio
 
 My interests sit at the intersection of:
 
-**Cybersecurity * Digital Forensics * Conspiracy-Level Pattern Recognition * 
+**Cybersecurity * Digital Forensics * Conspiracy-Level Pattern Recognition** 
 ---
 
 # `> ABOUT ME`
