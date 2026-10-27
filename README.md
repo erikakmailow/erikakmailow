@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A7CFF&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI+%7C+LLM+Engineering;Red+Team+%7C+Security+Research;Python+%7C+PowerShell+%7C+Linux;Breaking+Things+%E2%80%A2+Understanding+Them+%E2%80%A2+Securing+Them" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A7CFF&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+Security+Research;Python+%7C+PowerShell+%7C+Linux;Breaking+Things+%E2%80%A2+Understanding+Them+%E2%80%A2+Securing+Them" alt="Typing SVG"/>
 
 <br>
 
